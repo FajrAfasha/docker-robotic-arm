@@ -4,7 +4,19 @@ This repository provides the source files and documentation for a Dockerized rob
 
 
 ## Docker Hub Image
+
 The Docker image is available on Docker Hub:
+
 [**fajr2afasha/robotic-arm-env**](https://hub.docker.com/r/fajr2afasha//robotic-arm-env)
+
 Use the command
+
 docker pull fajr2afasha/robotic-arm-env
+
+##Run the Container
+
+To run the container:
+
+docker run --rm myusername/robotic-arm-env
+
+
