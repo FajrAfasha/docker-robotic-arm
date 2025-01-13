@@ -17,6 +17,6 @@ docker pull fajr2afasha/robotic-arm-env
 
 To run the container:
 
-docker run --rm myusername/robotic-arm-env
+docker run --rm fajr2afasha/robotic-arm-env
 
 
