@@ -33,15 +33,15 @@ def place_objects_on_reach_space(robot_id):
     workspace_points = []
 
     # Simulate robot movement and collect boundary points
-    for joint_1_angle in np.linspace(-np.pi, np.pi, 30):
-        for joint_2_angle in np.linspace(-np.pi/3, np.pi/3, 30):
+    for joint_1_angle in np.linspace(-np.pi, np.pi, 31):
+        for joint_2_angle in np.linspace(-np.pi/3, np.pi/3, 31):
             # for joint_3_angle in np.linspace(-np.pi, np.pi, 10):
               for joint_4_angle in np.linspace(0, np.pi*4/5 , 20):
                     p.resetJointState(robot_id, 0, joint_1_angle)
                     if num_joints > 1:
                         p.resetJointState(robot_id, 1, joint_2_angle) #up and down -pi/2 to + pi/2
                     if num_joints > 2:
-                        p.resetJointState(robot_id, 2, 0) #circle around 2pi
+                        p.resetJointState(robot_id, 2, np.pi/2) #circle around 2pi
                     if num_joints > 3:
                         p.resetJointState(robot_id, 3, joint_4_angle) #another link up and down 2pi
                     if num_joints > 4:

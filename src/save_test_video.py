@@ -40,7 +40,7 @@ def save_test_video(env, model, filename="test_video.avi", fps=5, steps=200):
         # Take a step in the environment using the relative action steps
         state, reward, done = env.step(action_steps)
 
-        if done :
+        if done or reward > 0.008:
             print("success in video")
             break
 

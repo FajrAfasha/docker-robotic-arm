@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db8ff85-f69f-4cb8-bfb0-555699a7e59f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectsPlacement.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectsPlacement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/save_test_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/save_test_video.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test_video_episode_100.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_100.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_1000.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_1000.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_1000.avi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test_video_episode_200.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_200.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_300.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_400.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_500.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_600.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_700.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_800.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_video_episode_900.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_300.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_300.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_400.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_400.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_500.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_500.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_600.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_600.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_700.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_700.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_video_episode_900.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_video_episode_900.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
