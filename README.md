@@ -13,7 +13,7 @@ Use the command
 
 docker pull fajr2afasha/robotic-arm-env
 
-##Run the Container
+##  Run the Container
 
 To run the container:
 
