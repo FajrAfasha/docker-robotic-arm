@@ -1,0 +1,12 @@
+pybullet==3.2.5
+numpy<2.0
+matplotlib
+opencv-python==4.8.0.74
+torch==2.0.1
+matplotlib==3.7.3
+ultralytics
+scikit-image
+pillow
+gym
+gym[classic_control]
+ipython==8.16.0
